@@ -1,0 +1,17 @@
+C:\Users\Илья\source\repos\PPPPP\obj\Debug\PPPPP.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\PPPPP\obj\Debug\PPPPP.exe.config
+C:\Users\Илья\source\repos\PPPPP\obj\Debug\PPPPP.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\PPPPP\bin\Debug\PPPPP.exe.config
+C:\Users\Илья\source\repos\PPPPP\bin\Debug\PPPPP.exe
+C:\Users\Илья\source\repos\PPPPP\bin\Debug\PPPPP.pdb
+C:\Users\Илья\source\repos\PPPPP\bin\Debug\System.Memory.dll
+C:\Users\Илья\source\repos\PPPPP\bin\Debug\System.Text.Json.dll
+C:\Users\Илья\source\repos\PPPPP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Илья\source\repos\PPPPP\bin\Debug\System.Buffers.dll
+C:\Users\Илья\source\repos\PPPPP\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Илья\source\repos\PPPPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Илья\source\repos\PPPPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Илья\source\repos\PPPPP\obj\Debug\PPPPP.csproj.CopyComplete
+C:\Users\Илья\source\repos\PPPPP\obj\Debug\PPPPP.exe
+C:\Users\Илья\source\repos\PPPPP\obj\Debug\PPPPP.pdb
+C:\Users\Илья\source\repos\PPPPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
